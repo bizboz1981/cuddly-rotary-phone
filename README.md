@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<img src="assets/images/responsiveMockUps.png" alt="Mock up" style="width: 600px; height: auto; clear: both;">
 
 Welcome bizboz1981 ,
 
